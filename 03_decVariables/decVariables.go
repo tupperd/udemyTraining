@@ -11,4 +11,7 @@ func main() {
 
 	var name2, name3 = "Cruz", "Tupper"
 	fmt.Println(name2, name3)
+
+	var test bool
+	fmt.Println(test)
 }
